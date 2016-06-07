@@ -1,0 +1,16 @@
+[
+{
+  "modid": "reddustry",
+  "name": "RedDustry",
+  "description": "A Tech Mod for Minecraft 1.9",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fortanono", "erindalc", "RealKC", "Dragagon"],
+  "credits": "ModDevs for life!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
